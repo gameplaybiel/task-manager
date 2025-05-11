@@ -9,7 +9,7 @@ API para gerenciamento de tarefas com documentação interativa e testes automat
 
 ## 🔍 Documentação da API
 Acesse a documentação interativa:  
-🔗 [http://localhost:8083/swagger-ui.html](http://localhost:8083/swagger-ui.html)
+🔗 [http://localhost:8083/swagger-ui/index.html](http://localhost:8083/swagger-ui/index.html)
 
 *(A aplicação deve estar rodando localmente)*
 
